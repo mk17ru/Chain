@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e55d743-3c79-46c0-9faf-df6e5c2f2f4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7Mb9nUdbbK2y2AXXnHBtsSDkk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AbQueue" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="expression.binary" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail\Desktop\untitled5\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="queue.Main" />
+      <module name="untitled5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.Main" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.Test" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="untitled5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="untitled5" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e55d743-3c79-46c0-9faf-df6e5c2f2f4a" name="Default Changelist" comment="" />
+      <created>1586082247961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586082247961</updated>
+      <workItem from="1586082251034" duration="27448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="225" width="403" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586107981347">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="438" y="225" width="403" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.682@0.0.1280.682" timestamp="1586107981347" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586100121674">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.682@0.0.1280.682" timestamp="1586100121674" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586109833068">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.682@0.0.1280.682" timestamp="1586109833068" />
+    <state x="291" y="139" key="FileDocumentManager.FileCacheConflict" timestamp="1586083662695">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="291" y="139" key="FileDocumentManager.FileCacheConflict/0.0.1280.682@0.0.1280.682" timestamp="1586083662695" />
+    <state width="1236" height="209" key="GridCell.Tab.0.bottom" timestamp="1586113704756">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.0.bottom/0.0.1280.682@0.0.1280.682" timestamp="1586113704756" />
+    <state width="1236" height="209" key="GridCell.Tab.0.center" timestamp="1586113704756">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.0.center/0.0.1280.682@0.0.1280.682" timestamp="1586113704756" />
+    <state width="1236" height="209" key="GridCell.Tab.0.left" timestamp="1586113704756">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.0.left/0.0.1280.682@0.0.1280.682" timestamp="1586113704756" />
+    <state width="1236" height="209" key="GridCell.Tab.0.right" timestamp="1586113704756">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.0.right/0.0.1280.682@0.0.1280.682" timestamp="1586113704756" />
+    <state width="1236" height="209" key="GridCell.Tab.1.bottom" timestamp="1586113704606">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.1.bottom/0.0.1280.682@0.0.1280.682" timestamp="1586113704606" />
+    <state width="1236" height="209" key="GridCell.Tab.1.center" timestamp="1586113704606">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.1.center/0.0.1280.682@0.0.1280.682" timestamp="1586113704606" />
+    <state width="1236" height="209" key="GridCell.Tab.1.left" timestamp="1586113704606">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.1.left/0.0.1280.682@0.0.1280.682" timestamp="1586113704606" />
+    <state width="1236" height="209" key="GridCell.Tab.1.right" timestamp="1586113704606">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state width="1236" height="209" key="GridCell.Tab.1.right/0.0.1280.682@0.0.1280.682" timestamp="1586113704606" />
+    <state x="93" y="93" width="1094" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586106248273">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="93" y="93" width="1094" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.682@0.0.1280.682" timestamp="1586106248273" />
+    <state x="297" y="146" key="run.anything.popup" timestamp="1586113586848">
+      <screen x="0" y="0" width="1280" height="682" />
+    </state>
+    <state x="297" y="146" key="run.anything.popup/0.0.1280.682@0.0.1280.682" timestamp="1586113586848" />
+  </component>
+</project>
